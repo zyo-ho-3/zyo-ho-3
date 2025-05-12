@@ -1,0 +1,12 @@
+body, html {
+    margin: 0;
+    height: 50vh;
+  }
+  
+  .background_01 {
+    height: 100%;
+    display: block;
+    background: #000;
+  }
+
+form{color: black; background-color: white;}
